@@ -18,7 +18,7 @@ O projeto utiliza Ruby, Cucumber, SitePrism, Selenium-WebDriver, Capybara and Ch
 
 ### CRIANDO O AMBIENTE
 1. Crie uma pasta chamada `amazon-book-search` de forma manual ou através do comando `mkdir amazon-book-search`
-2. Entre nna nova pasta criada
+2. Entre na nova pasta criada manual ou com comando `cd amazon-book-search`
 3. Rode o comando `git clone https://github.com/PaulosSouza/amazon-book-search.git`
 
 ### EXECUTANDO O PROJETO
