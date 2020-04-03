@@ -1,10 +1,6 @@
 class HomePage < SitePrism::Page
   set_url ''
 
-  def showPrices
-    
-  end
-
   def fillBook(book)
     find_field(id: 'twotabsearchtextbox').send_keys(book, :enter)
   end
